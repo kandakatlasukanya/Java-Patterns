@@ -35,5 +35,4 @@ This repository focuses on:
 Java
 
 ## Status
-
-Learning and practice repository.
+This repository is actively maintained as a learning and pratice project.
